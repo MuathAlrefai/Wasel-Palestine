@@ -144,3 +144,12 @@ API documentation is prepared in Apidog/API-Dog and includes requests, responses
 |---|---|
 | Muath Alrefai | 12011560 |
 | Muhammad Alrefai | 12217414 |
+
+## Demo Link
+https://drive.google.com/file/d/18ECPZ0J7lXy_WHZRB1qAafwR_dTvreQC/view?usp=sharing
+
+## API-Dog documentation link
+https://8swnihx9q0.apidog.io
+
+## Progress Report link (inside repo)
+[Progress Report](docs/Wasel_Palestine_Progress_Report.pdf)
